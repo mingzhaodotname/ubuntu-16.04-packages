@@ -56,4 +56,4 @@ deb http://security.ubuntu.com/ubuntu xenial-security universe
 deb http://security.ubuntu.com/ubuntu xenial-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu xenial-security multiverse
 
-deb file:///media/cdrom
+#deb file:///media/cdrom
